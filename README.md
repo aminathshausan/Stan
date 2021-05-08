@@ -1,3 +1,4 @@
 # Stan
 Introduction to Stan https://danwkenn.github.io/brag-stan-guide/
-Bayesian Statistical Modelling guide for the Introduction to Stan programing language workshop which I initiated at QUT
+
+A Bayesian Statistical Inference guide using Stan programing language, implemented in R,  which I initiated and co-created at QUT
